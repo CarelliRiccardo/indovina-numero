@@ -51,7 +51,7 @@ public class Thread {
             System.out.println("errore nella creazione del server");
             System.exit(1);
         }
- 
+        
     }
     
 }
